@@ -4,6 +4,7 @@ Autorki:
 
 
 * Amelia Lipińska 203721
+* (Usunięcie imienia i nazwiska drugiego autora na jego prośbę)
 
 ![Program](sygnalyzdj.jpg)
  
